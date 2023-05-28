@@ -3,7 +3,7 @@
 Todo App foi criado para resolução do desafio do curso Ignite (trilha atualizada) da Rocketseat. Essa aplicação apesar de simples é um excelente exemplo para praticar o desenvolvimento de apps CRUD (Create, Read, Update, Delete).
 
 <p align="center">
-  <img src=".github/app-preview.gif">
+  <img src="./Assets/desktop-todo.jpg">
 </p>
 
 
