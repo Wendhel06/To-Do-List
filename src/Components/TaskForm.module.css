@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    gap: 8px;
+    margin-top: -27px;
+}
+
+input {
+    background-color: var(--color-gray-500);
+    padding: 16px;
+    border-radius:  8px;
+    border: 1px solid var(--color-700);
+    width: 100%;
+    color: #fff;
+    outline: none;
+}
+
+.btnSubmit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    padding: 16px;
+    background-color: var(--color-blue);
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1;
+    color: var(--color-gray-100);
+    font-weight: 700;
+    cursor: pointer;
+}
